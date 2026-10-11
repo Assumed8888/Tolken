@@ -1,0 +1,6 @@
+{
+  "name": "Tolken",
+  "description": "Синхронный переводчик с датского на русский в реальном времени с выводом в Bluetooth-наушники и фоновым режимом.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
